@@ -145,16 +145,6 @@ http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8
 http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
 #EXTINF:-1 group-title="电影",🎬精品大剧
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=7882297361445410858&livemode=1&stbId=2&channel-id=ystenlive
-#EXTINF:-1 group-title="虎牙",🔞快乐老家
-https://ws.hls.huya.com/src/71862053-2645534014-11362482070585606144-3684952466-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",🔞金痴[梨]
-https://hw.hls.huya.com/src/1199554525533-1199554525533-5405860368067067904-2399109174522-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",🔞沪娱、蜜糖
-https://hw.hls.huya.com/huyalive/1199609930628-1199609930628-5643823439123841024-2399219984712-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",虎说世界波
-https://ws.hls.huya.com/src/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",🔞视觉-泡泡
-https://hw.hls.huya.com/huyalive/1738406201-1738406201-7466397780458602496-3476935858-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="VIP",🔞阿冷
 http://epg.112114.xyz/douyu/520
 #EXTINF:-1 group-title="VIP",🔞小团团
